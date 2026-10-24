@@ -62,3 +62,4 @@ docs/_build/*
 
 .coverage
 AGENTS.md
+uv.lock
